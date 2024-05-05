@@ -28,7 +28,3 @@ img {
     padding: 5px;
 
 }
-
-.container img:hover {
-    border: 5px solid #f7f7f7;
-}
